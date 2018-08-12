@@ -1,5 +1,6 @@
 # PeerTube Recommendations
-(This project is currently in ideation)
+This project is currently in ideation
+[Check the Wiki for notes, discussions](https://github.com/bradsk88/peertube-recommendations/wiki)
 
 # Mission
 To provide an intuitive, open-source service for intelligently recommending videos via the PeerTube platform
