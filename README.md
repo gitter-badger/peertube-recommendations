@@ -1,8 +1,8 @@
-# peertube-recommendations
-[In ideation] A recommendation engine for the PeerTube video streaming platform.
+# PeerTube Recommendations
+(This project is currently in ideation)
 
 # Mission
-To provide an intuitive, open source service for intelligently recommending videos via the PeerTube playform
+To provide an intuitive, open-source service for intelligently recommending videos via the PeerTube platform
 
 # Vision
 An annoyance-free video watching experience for everyone on the internet
