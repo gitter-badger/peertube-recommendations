@@ -1,5 +1,8 @@
 # PeerTube Recommendations
-This project is currently in ideation  
+This project is currently in ideation / prototyping
+
+[Prototype Repo](https://github.com/bradsk88/peertube-recommender)
+
 [Check the Wiki for notes, discussions](https://github.com/bradsk88/peertube-recommendations/wiki)
 
 # Mission
